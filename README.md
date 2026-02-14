@@ -1,2 +1,2 @@
 # Bitacora
-Proyecto Bitacora
+Conceptos básicos de las TIC
